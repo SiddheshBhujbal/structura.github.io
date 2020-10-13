@@ -184,6 +184,10 @@ body {
   .container{
     left: 60%;
   }
+
+  .card{
+    left: 150px;
+  }
 }
 
 
