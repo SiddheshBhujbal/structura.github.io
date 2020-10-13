@@ -183,11 +183,8 @@ body {
 
 @media (max-width: 400px){
   .container{
+    display: inline-block;
     left: 65%;
-  }
-
-  .card{
-    left: 150px;
   }
 }
 
